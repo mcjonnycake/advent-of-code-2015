@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-var test_file string = "problem.txt"
+var test_file string = "input.txt"
 
 var text string = "Hello, World!"
 var test_1 string = "(())"
